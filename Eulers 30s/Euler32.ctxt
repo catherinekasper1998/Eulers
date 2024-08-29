@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler32
+comment0.text=\n\ We\ shall\ say\ that\ an\ n-digit\ number\ is\ pandigital\ if\ it\ makes\ use\ of\ all\ the\ digits\ \n\ 1\ to\ n\ exactly\ once;\ for\ example,\ the\ 5-digit\ number,\ 15234,\ is\ 1\ through\ 5\ pandigital.\n\ The\ product\ 7254\ is\ unusual,\ as\ the\ identity,\ 39\ \u00D7\ 186\ \=\ 7254,\ containing\ multiplicand,\ \n\ multiplier,\ and\ product\ is\ 1\ through\ 9\ pandigital.\n\ \n\ Find\ the\ sum\ of\ all\ products\ whose\ multiplicand/multiplier/product\ identity\ can\ be\ \n\ written\ as\ a\ 1\ through\ 9\ pandigital.\n\ \n\ HINT\:\ Some\ products\ can\ be\ obtained\ in\ more\ than\ one\ way\ so\ be\ sure\ to\ only\ \n\ include\ it\ once\ in\ your\ sum.\n\ \n\ @author\ Grace\ Kasper\n\ @version\ Start\:\ 22\ February\ 2017\ End\:\ 22\ February\ 2017\n
+comment1.params=num
+comment1.target=boolean\ isPandigital(java.lang.String)
+comment2.params=size
+comment2.target=void\ main(int)
+numComments=3

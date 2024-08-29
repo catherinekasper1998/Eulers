@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EULER18Attempt
+comment0.text=\n\ I'm\ trying\ to\ be\ clever,\ by\ comparing\ the\ two\ next\ paths\ and\ comparing\ the\ immediate\ next\ two\ values.\n
+comment1.params=
+comment1.target=EULER18Attempt()
+comment2.params=row\ col
+comment2.target=void\ sums(int,\ int)
+numComments=3

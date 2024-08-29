@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler15
+comment0.text=\n\ Write\ a\ description\ of\ class\ Euler15\ here.\n\ \n\ @Grace\ Kasper\n\ @Started\:21\ November\ 2016\n\ Finished\:\n
+comment1.params=
+comment1.target=int\ Euler15()
+comment2.params=master\ tester\ whereAmI
+comment2.target=boolean\ addThis(int[][],\ int[],\ int)
+numComments=3

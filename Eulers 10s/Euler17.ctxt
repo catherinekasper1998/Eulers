@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Euler17
+comment0.text=\n\ Good\ morning\ (or\ night),\ Ms.\ Kasper.\ Your\ mission,\ should\ you\ choose\ to\ accept\ it\:\n\ \ If\ the\ numbers\ 1\ to\ 5\ are\ written\ out\ in\ words\:\ one,\ two,\ three,\ four,\ five,\ then\n\ \ there\ are\ 3\ +\ 3\ +\ 5\ +\ 4\ +\ 4\ \=\ 19\ letters\ used\ in\ total.\n\ \ If\ all\ the\ numbers\ from\ 1\ to\ 1000\ (one\ thousand)\ inclusive\ were\ written\ out\ in\ words,\ \n\ \ how\ many\ letters\ would\ be\ used?\n\ As\ always,\ should\ you\ are\ any\ of\ your\ I.M.\ Force\ be\ caught\ of\ killed,\ the\ Secretary\ will\n\ disavow\ any\ knowledge\ of\ you\ actions.\ This\ code\ will\ self-destruction\ (or\ probably\ not)\ in\n\ five\ seconds\ (or\ probably\ never).\ Good\ luck,\ Grace.\n\ \n\ @Grace\ Kasper\ \n\ @18\ December\ 2016\ (Finished\:\ 19\ December\ 2016)\n
+comment1.params=stop
+comment1.target=void\ euler17(int)
+comment2.params=num
+comment2.target=java.lang.String\ underTen(int)
+comment3.params=num
+comment3.target=java.lang.String\ teens(int)
+comment4.params=num
+comment4.target=java.lang.String\ underOneHundred(int)
+comment5.params=num
+comment5.target=java.lang.String\ underOneThousand(int)
+comment6.params=num
+comment6.target=java.lang.String\ onethousand(int)
+numComments=7

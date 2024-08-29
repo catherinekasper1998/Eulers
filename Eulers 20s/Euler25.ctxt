@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Euler25
+comment0.text=\n\ The\ Fibonacci\ sequence\ is\ defined\ by\ the\ recurrence\ relation\:\n\ \n\ Fn\ \=\ Fn\u22121\ +\ Fn\u22122,\ where\ F1\ \=\ 1\ and\ F2\ \=\ 1.\n\ Hence\ the\ first\ 12\ terms\ will\ be\:\n\ \n\ F1\ \=\ 1\ \n\ F2\ \=\ 1\ \n\ F3\ \=\ 2\ \n\ F4\ \=\ 3\ \n\ F5\ \=\ 5\ \n\ F6\ \=\ 8\ \n\ F7\ \=\ 13\ \n\ F8\ \=\ 21\n\ F9\ \=\ 34\n\ F10\ \=\ 55\n\ F11\ \=\ 89\n\ F12\ \=\ 144\n\ \n\ The\ 12th\ term,\ F12,\ is\ the\ first\ term\ to\ contain\ three\ digits.\n\ \n\ What\ is\ the\ index\ of\ the\ first\ term\ in\ the\ Fibonacci\ sequence\ to\ contain\ 1000\ digits?\n\ \n\ @author\ Grace\ Kasper\n\ @version\ Begin\:\ 19\ February\ 2017\ End\:\ 19\ February\ 2017\n
+comment1.params=lengthOfNum
+comment1.target=void\ main(int)
+numComments=2

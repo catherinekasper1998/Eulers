@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Euler18Attempt2
+comment0.text=\n\ Good\ morning\ (or\ night),\ Ms.\ Kasper.\ Your\ mission,\ should\ you\ choose\ to\ accept\ it\:\n\ \ \ By\ starting\ at\ the\ top\ of\ the\ triangle\ below\ and\ moving\ to\ adjacent\ numbers\ on\ the\ row\ below,\ \n\ \ \ the\ maximum\ total\ from\ top\ to\ bottom\ is\ 23.\n\ \ \ \ \ \ \ \ \ \ 3\n\ \ \ \ \ \ \ \ \ 7\ 4\n\ \ \ \ \ \ \ \ 2\ 4\ 6\n\ \ \ \ \ \ \ 8\ 5\ 9\ 3\n\ \ \ That\ is,\ 3\ +\ 7\ +\ 4\ +\ 9\ \=\ 23.Find\ the\ maximum\ total\ from\ top\ to\ bottom\ of\ the\ triangle\ below\:\n\ As\ always,\ should\ you\ are\ any\ of\ your\ I.M.\ Force\ be\ caught\ of\ killed,\ the\ Secretary\ will\n\ disavow\ any\ knowledge\ of\ you\ actions.\ This\ code\ will\ self-destruction\ (or\ probably\ not)\ in\n\ five\ seconds\ (or\ probably\ never).\ Good\ luck,\ Grace.\n\ \n\ @grace\ Kasper\ \n\ @19\ December\ 2016\n
+comment1.params=
+comment1.target=int[][]\ getArray()
+comment2.params=row\ col
+comment2.target=void\ tracing(int,\ int)
+comment2.text=\n\ \ \ \ public\ int\ main(int\ lowEnd,\ int\ currentRow,\ int\ counter,\ int\ column,\ int\ max)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ \n\ \ \ \ }\n
+numComments=3

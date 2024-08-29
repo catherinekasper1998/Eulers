@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler30
+comment0.text=\n\ Surprisingly\ there\ are\ only\ three\ numbers\ that\ can\ be\ written\ as\ the\ \n\ sum\ of\ fourth\ powers\ of\ their\ digits\:\n\ \n\ 1634\ \=\ 14\ +\ 64\ +\ 34\ +\ 44\n\ 8208\ \=\ 84\ +\ 24\ +\ 04\ +\ 84\n\ 9474\ \=\ 94\ +\ 44\ +\ 74\ +\ 44\n\ \n\ As\ 1\ \=\ 14\ is\ not\ a\ sum\ it\ is\ not\ included.\n\ \n\ The\ sum\ of\ these\ numbers\ is\ 1634\ +\ 8208\ +\ 9474\ \=\ 19316.\n\ \n\ Find\ the\ sum\ of\ all\ the\ numbers\ that\ can\ be\ written\ as\ the\ sum\ of\ fifth\n\ powers\ of\ their\ digits.\n\ \n\ @author\ Grace\ Kasper\ \n\ @version\ Start\:\ 21\ February\ 2017\ End\:\ 21\ February\ 2017\n
+comment1.params=num\ power
+comment1.target=boolean\ getSumOfNums(int,\ int)
+comment2.params=power\ max
+comment2.target=void\ main(int,\ int)
+numComments=3

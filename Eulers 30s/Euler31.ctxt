@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Euler31
+comment0.text=\n\ In\ England\ the\ currency\ is\ made\ up\ of\ pound,\ \u00A3,\ and\ pence,\ p,\ and\ there\ are\ \n\ eight\ coins\ in\ general\ circulation\:\n\ \n\ 1p,\ 2p,\ 5p,\ 10p,\ 20p,\ 50p,\ \u00A31\ (100p)\ and\ \u00A32\ (200p).\n\ It\ is\ possible\ to\ make\ \u00A32\ in\ the\ following\ way\:\n\ \n\ 1\u00D7\u00A31\ +\ 1\u00D750p\ +\ 2\u00D720p\ +\ 1\u00D75p\ +\ 1\u00D72p\ +\ 3\u00D71p\n\ How\ many\ different\ ways\ can\ \u00A32\ be\ made\ using\ any\ number\ of\ coins?\n\ \n\ @author\ Grace\ Kasper\n\ @version\ Start\:\ 17\ February\ 2017\ End\:\ 21\ February\ 2017\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\n\ solidGold\ \=\ 2Pounds\ \=\ 200pence\ (max\ \=\ 1)\n\ goldRim\ \=\ 1pound\ \=\ 100pence\ (max\ \=\ 2)\n\ fifty\ \=\ 50pence\ (max\ \=\ 4)\n\ twenty\ \=\ 20pence\ (max\ \=\ 10)\n\ ten\ \=\ 10pence\ (max\ \=\ 20)\n\ five\ \=\ 5pence\ (max\ \=\ 40)\n\ two\ \=\ 2pence\ (max\ \=\ 100)\n\ penny\ \=\ 1pence\ (max\ \=\ 200)\n
+numComments=2

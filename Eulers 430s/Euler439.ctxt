@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Euler439
+comment0.text=\n\ Write\ a\ description\ of\ class\ Euler439\ here.\n\ \n\ @author\ Grace\ Kasper\n\ @version\ 4\ March\ 2017\n
+comment1.params=n\ f
+comment1.target=void\ euler439(int,\ int)
+comment2.params=num
+comment2.target=long\ sumOfDivisors(int)
+comment3.params=k
+comment3.target=long\ sIsWhat(int)
+comment4.params=n\ f
+comment4.target=void\ euler439new(int,\ int)
+comment5.params=num
+comment5.target=java.math.BigInteger\ sumOfDivisors(java.math.BigInteger)
+comment6.params=k
+comment6.target=java.math.BigInteger\ sIsWhat(java.math.BigInteger)
+numComments=7

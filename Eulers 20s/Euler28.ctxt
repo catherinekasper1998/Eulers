@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Euler28
+comment0.text=\n\ Starting\ with\ the\ number\ 1\ and\ moving\ to\ the\ right\ in\ a\ clockwise\ direction\ a\ \n\ 5\ by\ 5\ spiral\ is\ formed\ as\ follows\:\n\ \n\ 21\ 22\ 23\ 24\ 25\n\ 20\ \ 7\ \ 8\ \ 9\ 10\n\ 19\ \ 6\ \ 1\ \ 2\ 11\n\ 18\ \ 5\ \ 4\ \ 3\ 12\n\ 17\ 16\ 15\ 14\ 13\n\ \n\ It\ can\ be\ verified\ that\ the\ sum\ of\ the\ numbers\ on\ the\ diagonals\ is\ 101.\n\ \n\ What\ is\ the\ sum\ of\ the\ numbers\ on\ the\ diagonals\ in\ a\ 1001\ by\ 1001\ spiral\ \n\ formed\ in\ the\ same\ way?\n\ \n\ @author\ Grace\ Kasper\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=size
+comment1.target=void\ main(int)
+numComments=2

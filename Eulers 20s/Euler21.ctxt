@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler21
+comment0.text=\n\ Let\ d(n)\ be\ defined\ as\ the\ sum\ of\ proper\ divisors\ of\ n\ (numbers\ less\ than\ n\ which\ divide\ evenly\ into\ n).\n\ If\ d(a)\ \=\ b\ and\ d(b)\ \=\ a,\ where\ a\ \u2260\ b,\ then\ a\ and\ b\ are\ an\ amicable\ pair\ and\ each\ of\ a\ and\ b\ are\ called\ amicable\ numbers.\n\ \n\ For\ example,\ the\ proper\ divisors\ of\ 220\ are\ 1,\ 2,\ 4,\ 5,\ 10,\ 11,\ 20,\ 22,\ 44,\ 55\ and\ 110;\ therefore\ d(220)\ \=\ 284.\ The\ proper\ divisors\ of\ 284\ are\ 1,\ 2,\ 4,\ 71\ and\ 142;\ so\ d(284)\ \=\ 220.\n\ \n\ Evaluate\ the\ sum\ of\ all\ the\ amicable\ numbers\ under\ 10000.\n\ \n\ @author\ Grace\ Kasper\ \n\ @version\ Start\:17\ February\ 2017\ Finish\:\ \n
+comment1.params=num
+comment1.target=boolean\ amicableDivisors(int)
+comment2.params=value
+comment2.target=void\ main(int)
+numComments=3

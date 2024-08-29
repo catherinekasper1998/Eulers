@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Euler11
+comment0.text=\n\ Write\ a\ description\ of\ class\ EulerTenTwo\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int[]\ hell()
+comment2.params=
+comment2.target=void\ Euler()
+comment3.params=
+comment3.target=long\ findGreatestRightDiagonal()
+comment4.params=
+comment4.target=long\ findGreatestLeftDiagonal()
+comment5.params=
+comment5.target=long\ findGreatestHorizontal()
+comment6.params=
+comment6.target=long\ findGreatestVertical()
+numComments=7

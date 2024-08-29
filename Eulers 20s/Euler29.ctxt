@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Euler29
+comment0.text=\n\ Consider\ all\ integer\ combinations\ of\ ab\ for\ 2\ \u2264\ a\ \u2264\ 5\ and\ 2\ \u2264\ b\ \u2264\ 5\:\n\ \n\ 22\=4,\ 23\=8,\ 24\=16,\ 25\=32\n\ 32\=9,\ 33\=27,\ 34\=81,\ 35\=243\n\ 42\=16,\ 43\=64,\ 44\=256,\ 45\=1024\n\ 52\=25,\ 53\=125,\ 54\=625,\ 55\=3125\n\ \n\ If\ they\ are\ then\ placed\ in\ numerical\ order,\ with\ any\ repeats\ removed,\ \n\ we\ get\ the\ following\ sequence\ of\ 15\ distinct\ terms\:\n\ \n\ 4,\ 8,\ 9,\ 16,\ 25,\ 27,\ 32,\ 64,\ 81,\ 125,\ 243,\ 256,\ 625,\ 1024,\ 3125\n\ \n\ How\ many\ distinct\ terms\ are\ in\ the\ sequence\ generated\ by\ ab\ for\ 2\ \u2264\ a\ \u2264\ 100\ and\ 2\ \u2264\ b\ \u2264\ 100?\n\ \n\ @author\ Grace\ Kasper\n\ @version\ Start\:\ 21\ February\ 2017\ End\:\ 21\ February\ 2017\n
+comment1.params=stop
+comment1.target=int\ main(int)
+numComments=2

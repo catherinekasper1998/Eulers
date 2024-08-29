@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler67
+comment0.text=\n\ Write\ a\ description\ of\ class\ Euler67\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Euler67()
+comment2.params=row\ col
+comment2.target=void\ sums(int,\ int)
+numComments=3

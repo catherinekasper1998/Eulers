@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Euler18B
+comment0.text=\n\ Using\ this\ to\ test\ for\ Euler\ 18.\ I\ want\ to\ build\ a\ "simpler"\ recursive\ method\ that\ works\ for\ the\ example\ set,\n\ which\ is\ 4\ rows\ in\ total\ and\ 4\ rows\ across\ the\ bottom\n\n\ @Grace\ Kasper\n\ @Started\:\ 30\ May\ 2017\ Ended\:1\ June\ 2017\n
+comment1.params=
+comment1.target=Euler18B()
+comment2.params=row\ col
+comment2.target=void\ sums(int,\ int)
+numComments=3
